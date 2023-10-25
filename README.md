@@ -2,6 +2,8 @@
 
 ## In your infnite wisdom you left a crucial opening in your little shitty php programming, a little vuln i wont speak of. In this repo we will leak and show any of your stupidity so the world knows.
 
+# And no, we didn't buy it. We managed to get a few logins....
+
 ## And in case you try to claim we hid malware in here:
 
 ### For the Customs:
